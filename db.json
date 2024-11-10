@@ -1,0 +1,12 @@
+{
+    "teams": [
+      { "id": "1", "name": "Team Spirit", "image": "https://kappa.lol/I6hT_" },
+      { "id": "2", "name": "Team Falcons", "image": "https://kappa.lol/b0o9V" },
+      { "id": "3", "name": "Natus Vincere", "image": "https://kappa.lol/f35R1" }
+    ],
+    "players": {
+      "1": ["Satanic", "Larl", "Collapse", "rue", "Miposhka"],
+      "2": ["skiter", "Malr1ne", "ATF", "Cr1t-", "Sneyking"],
+      "3": ["Yuragi", "sanctity", "nefrit", "Zayac", "Malady"]
+    }
+  }
